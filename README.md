@@ -85,11 +85,7 @@ python test_requirements.py
 
 **Результат:** 8/8 тестов пройдены ✅
 
-## 📖 Документация
 
-- [TZ_EVALUATION.md](TZ_EVALUATION.md) — Оценка соответствия ТЗ
-- [DATALENS_INTEGRATION.md](DATALENS_INTEGRATION.md) — Интеграция с DataLens
-- [IMPLEMENTATION_SUMMARY.md](IMPLEMENTATION_SUMMARY.md) — Детали реализации
 
 ## ⚙️ Требования
 
